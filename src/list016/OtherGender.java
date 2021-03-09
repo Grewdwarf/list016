@@ -9,6 +9,6 @@ public class OtherGender extends Person{
 	}
 	
 	public void printClassName() {
-		System.out.println("The person "+ name + "belongs to class: "+ CLASS_NAME);
+		System.out.println("The person "+ name + " belongs to class: "+ CLASS_NAME);
 	}
 }
